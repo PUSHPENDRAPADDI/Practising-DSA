@@ -1,0 +1,43 @@
+Create the class Course with below attributes.
+courseId, quiz, handson - int
+courseName, courseAdmin - String
+
+Write parametrized constructor as required.
+ 
+Create class Practice with main method.
+
+Implement two static method - 
+
+findAvgOfQuizByAdmin method :-
+ 
+This method will take array of course obk=jects and a string value as input parameters. This meethod will find out Average of Quiz questions for given Course Admin. This method will
+return Average if found. If there is no course that matches then the method should return 0.
+
+
+The above mention static method should be called from main method.
+
+Input :- 
+111
+kubernates
+Nisha
+40
+10
+321
+cossandra
+Roshini
+30
+15
+457
+Apache Spark
+Nisha
+30
+12
+987
+site care
+Thirth
+50
+30
+Nisha
+
+Output :- 
+35
