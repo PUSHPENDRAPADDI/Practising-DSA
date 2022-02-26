@@ -1,0 +1,7 @@
+Write a program to print alternate characters from the given strings.
+
+Input :-
+suNNy iS a Good Boy
+
+Output :-
+uN SaGo o
