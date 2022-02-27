@@ -1,0 +1,10 @@
+Write a programe to print the smallest and largest character from given string according to ASCCI values.
+
+
+Inputs :- 
+thiisa is a good boy
+
+Output :- 
+
+The smallest character is :- a
+The Largest character is :- y
