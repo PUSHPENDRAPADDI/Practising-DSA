@@ -1,0 +1,11 @@
+Write the program to find nth smallest and largest number from given unsorted array.
+
+Input :- 
+2 
+
+3,4,8,6,5,4,5,7,4,2,1
+
+Output :-
+
+2th Smallest number :- 2
+2th Largest number :- 6
