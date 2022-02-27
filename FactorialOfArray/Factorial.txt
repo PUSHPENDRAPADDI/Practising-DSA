@@ -1,0 +1,15 @@
+Write the program to find the factorial of every given elements in array.
+
+Input :-
+2
+3
+4
+5
+6
+
+Output :- 
+2
+6
+24
+120
+720
