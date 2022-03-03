@@ -1,0 +1,9 @@
+write a program to revers a number 
+
+Input :-
+
+12345
+
+Output:-
+
+54321
