@@ -1,0 +1,8 @@
+Find the smallest vowel from the given string 
+
+Input :-
+miatrix
+
+Output:-
+a
+
