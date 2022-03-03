@@ -1,0 +1,8 @@
+Write program for count teh characters and spaces in the given string
+
+Intput :-
+Hello This is ABCD from XYZ city
+
+Output :-
+
+No of spaces : 6 and characters : 26
