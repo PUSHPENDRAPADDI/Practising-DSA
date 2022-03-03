@@ -1,0 +1,16 @@
+Problem Statement: Perfect Square. Write a program to find whether a number is a perfect Square or not.
+ 
+
+Examples:
+
+Example 1:
+Input: n=9
+Output: 9 is a perfect Square
+
+Example 2:
+Input: n=15
+Output: 15 is not a perfect Square
+
+Example 3:
+Input: n=25
+Output: 25 is a perfect square
