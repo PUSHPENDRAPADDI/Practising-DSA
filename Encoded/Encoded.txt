@@ -1,0 +1,14 @@
+A company wishes to encodes its data. The data is in the form of a number. They wish to encode the data with respect to a specific digit. They wish to count the number of times the 
+specific digit reoccurs in the given data so that they can encode the data accordingly. Write an algorithm to find the count of the specific digit in the given data.
+
+Input
+The input consists of two space-separated integers- data and digit, representing the data to be encoded and the digit to be counted in the data.
+
+Output
+Print an integer representing the count of the specific digit.
+
+Input: 
+572378233 3
+
+Output:
+3
