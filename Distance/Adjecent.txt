@@ -1,0 +1,21 @@
+Write a program to calculate and return the sum of distances between the adjacent numbers In an array of positive integers.
+
+Note:
+You are expected to write code in the find Total distance function only which receive the first parameter as the number of items in the array, and second parameter as the array itself. 
+You are not requested to take input from the console.
+
+Finding the total distance between adjacent items of a list of 5 numbers Input:
+
+5
+10 11 7 12 14
+
+Output: 12
+
+The first parameters (5) is the size of the array next is an array of integers the total of distance is 12 as per the calculation below.
+
+10-11=1
+11-7=4
+7-12=5
+12-14=2
+
+Total distance-1+4+5+2=12
