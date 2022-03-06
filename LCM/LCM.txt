@@ -1,0 +1,12 @@
+Problem Statement: Find lcm of two numbers.
+
+Examples:
+
+Example 1:
+Input: num1 = 4,num2 = 8
+Output: 8
+
+
+Example 2:
+Input: num1 = 3,num2 = 6
+Output: 6
