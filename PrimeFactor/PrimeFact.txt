@@ -1,0 +1,13 @@
+Problem Statement: Given a number n. Print all Prime Factors of the given number n.
+
+Examples:
+
+Example 1:
+Input: N = 12
+Output: 2,2,3
+Explanation: These are the prime factors of 12.
+
+Example 2:
+Input: N = 36
+Output: 2,2,3,3
+Explanation: These are the prime factors of 36.
