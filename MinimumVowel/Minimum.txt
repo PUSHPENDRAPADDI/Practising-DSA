@@ -1,0 +1,6 @@
+Write a program to find minimum vowel in string.
+
+Input :- sajgjrvvz
+
+Output :- 
+a
