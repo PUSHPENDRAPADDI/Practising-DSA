@@ -1,0 +1,11 @@
+Problem Statement: Reverse a String. Write a program that reverses a given string (in-place).
+
+Examples:
+
+Output :- 
+
+Hello Boys
+
+Input :- 
+
+syoB olleH
