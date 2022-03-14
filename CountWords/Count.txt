@@ -1,0 +1,14 @@
+Problem Statement: Write a program to count the number of words in a given string.
+
+Examples:
+
+Input :-
+Hello
+Output :-
+1
+
+Input :-
+Hello Buddy
+
+Output :-
+2
