@@ -1,0 +1,11 @@
+Write the program to print the pattern.
+
+Input :-
+5
+
+Outpuy :-
+* 
+* *
+* * *
+* * * *
+* * * * *
