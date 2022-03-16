@@ -1,0 +1,10 @@
+A company wishes to bucketize their item IDs for better search operations. The bucket for the item ID is chosen on the basis of the maximum value of the digit in the item ID. Write 
+an algorithm to find the bucket to which the item ID will be assigned.
+
+Input
+The input consists of an integer item1D, representing the identity number of the item. 
+Output
+Print an integer representing the bucket to which the item ID will be assigned.
+
+Input: 32387634
+Output: 8
