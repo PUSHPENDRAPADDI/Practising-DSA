@@ -1,0 +1,17 @@
+A game company has designed an online lottery game, Bingo. In this game, N number cards are displayed. Each card has a value on it. The value can be negative or positive. The 
+player mustchoose two cards. To win the game, the product of the values of the two cards must be the maximum value possible for any pair of cards in the display. The winning amount 
+will be the sum of the two cards chosen by the player.
+
+Write an algorithm to find the winning amount as the sum of the values of the two cards whose product value is maximum.
+
+Input
+The first line of the input consists of an integer numCards, representing the number of cards (N). 
+The second line consists of N space-separated integers	, val1 , val2…., valN representing the values on the cards. 
+
+Output
+Print an integer representing the sum of the values of the two cards whose product value is maximum.
+
+Input:
+7 9 -3 8 -6 -7 8 10
+
+Output: 19
