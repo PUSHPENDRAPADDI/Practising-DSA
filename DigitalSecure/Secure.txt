@@ -1,0 +1,14 @@
+The company Digital Secure Data Transfer Solutions provides data encryption and data sharing services. Their process uses a key K for encryption when transmitting characters. To 
+encrypt a character, the character is replaced by the following Kth character with the same case in the English alphabet set. The English alphabetical set is considered in a cyclic
+fashion for the last K characters.
+Write an algorithm to find the character used to encrypt the given character. 
+
+Input
+The input consists of a space-separated character and integer - character and key, representing the character to be transmitted, and the key (K), respectively.
+
+Output
+Print a character representing the encrypted character.
+
+Input: D 3
+
+Output: G
