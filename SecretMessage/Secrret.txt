@@ -1,0 +1,16 @@
+SecretMessage agency provides message encoding and decoding services for secure data transfer. The first step in decoding includes removal of special characters and the whitespaces 
+from the message, as special characters and whitespaces do not hold any meaning.
+
+Write an algorithm to help the agency find the number of special characters and whitespaces in a given message.
+
+Input
+
+The input consists of a string message, representing the message that need to be decoded by the agency.
+
+Output
+
+Print an integer representing the number of special characters and whitespaces present in a given message.
+
+Input: gasgg54@#vscsd!s* 
+
+Output: 4
