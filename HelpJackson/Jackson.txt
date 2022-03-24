@@ -1,0 +1,19 @@
+Jackson, a math research student, is developing an application on triangles in mensuration. For the two triangles on the application’s display, with base and height given, the 
+user must identify the triangle with the largest area. Jackson must now write an algorithm to find the area of the larger triangle.
+
+
+To find the area of a triangle with base and height given, the following formula is used: Area of a triangle = (base*height)/2.
+Write an algorithm to find the area of the largest triangle.
+
+Input
+The first line of the input consists of two space-separated positive integers – base1, height1, representing the base and height of the first triangle.
+The second line consists of two space-separated positive integers- base2, height2, representing the base and height of the second triangle.
+
+Output
+Print a real number representing the area of the largest triangle rounded up to 2 decimal places.
+
+Input: 
+5 8
+4 11
+Output: 
+22.00
